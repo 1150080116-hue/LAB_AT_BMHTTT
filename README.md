@@ -2,7 +2,7 @@
 # LAB3 - Nhận diện và ứng phó các mối đe dọa đến ATTT
 
 Họ tên: Hoàng Minh Thắng
-MSSV: [điền MSSV]
+MSSV: 1150080116
 Lab: Lab 3 - Nhận diện và ứng phó các mối đe dọa đến an toàn thông tin
 
 ## 1. Phiên bản môi trường thực hành
